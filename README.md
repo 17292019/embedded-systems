@@ -6,6 +6,3 @@ Embedded computer system refers to the application as the core, computer technol
 
 This course is designed to change the backward situation of embedded technology education to help students fully grasp the basic principles and embedded systems design and development methods.
 
-
-
-
